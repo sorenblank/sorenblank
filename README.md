@@ -17,10 +17,10 @@ A dreamer
 
 ## GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=soren-blank&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=445&hide_title=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=soren-blank&theme=tokyonight&hide_border=false&layout=compact&card_width=445)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soren-blank&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=445)
+![](https://github-readme-stats.vercel.app/api?username=sorenblank&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=445&hide_title=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sorenblank&theme=tokyonight&hide_border=false&layout=compact&card_width=445)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sorenblank&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=445)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=soren-blank&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sorenblank&icon=5&color=6)](https://visitcount.itsvg.in)
