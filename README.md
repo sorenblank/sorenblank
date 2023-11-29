@@ -17,7 +17,7 @@ A dreamer
 
 ## GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=sorenblank&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=445&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=sorenblank&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=445&hide_title=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sorenblank&theme=tokyonight&hide_border=false&layout=compact&card_width=445)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sorenblank&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=445)
 
