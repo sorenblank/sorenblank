@@ -3,7 +3,6 @@
 </div>  
 
 ### I am Siyam Afroz ( AKA Soren )
-A dreamer
 - 🌱 I’m currently learning Web Dev
 - 🗨️ Ask me about anything ( I mean it )
 - 📖 I love books and specially sci-fi
