@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/751428616889434197/1031457925476126720/w600.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/sorenblank/sorenblank/blob/main/cover.jpg?raw=true" align="center" style="width: 100%" />
 </div>  
 
 ### I am Siyam Afroz ( AKA Soren )
