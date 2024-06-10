@@ -14,12 +14,6 @@
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/python-ffdd54?style=for-the-badge&logo=python&logoColor=default) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-gray?style=for-the-badge&logo=opencv&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&logoColor=default) 
 
-## GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=sorenblank&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=445&hide_title=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sorenblank&theme=tokyonight&hide_border=false&layout=compact&card_width=445)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sorenblank&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=445)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sorenblank&icon=5&color=6)](https://visitcount.itsvg.in)
