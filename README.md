@@ -1,19 +1,81 @@
+
 <div align="center">
-<img src="https://github.com/sorenblank/sorenblank/blob/main/cover.jpg?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/sorenblank/sorenblank/blob/main/hero.gif?raw=true" align="center" style="width: 100%" />
 </div>  
 
-### I am Siyam Afroz ( AKA Soren )
-- 🌱 I’m currently learning Web Dev
-- 🗨️ Ask me about anything ( I mean it )
-- 📖 I love books and specially sci-fi
-- 💡 Fun fact: changed my username from soren-blank to sorenblank
 
-## Socials:
-[![BioLink](https://img.shields.io/badge/BioLink-e9c0e9.svg?logo=biolink&logoColor=502274)](https://bio.link/soren_blank) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soren.blank.0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soren_blank) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/soren_blank) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siyam-afroz) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/JJtUtgMjBv) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@soren-blank) 
 
-## Tech Stack:
-![Python](https://img.shields.io/badge/python-ffdd54?style=for-the-badge&logo=python&logoColor=default) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-gray?style=for-the-badge&logo=opencv&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&logoColor=default) 
+## Soren Blank / Siyam Afroz
+
+_Frontend Engineer | Web Developer | UI/UX Enthusiast_
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sorenblank&icon=5&color=6)](https://visitcount.itsvg.in)
+## 👨‍💻 About Me
+
+I'm a Frontend Engineer with almost 2~ years of experience, specializing in creating user-friendly, responsive, and performant web applications. My passion lies in blending creative and technical skills to deliver exceptional user experiences.
+
+## 🛠 Technical Skills
+
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** ReactJS, NextJS, SolidJS
+- **UI Libraries:** TailwindCSS, ChakraUI, Material-UI (MUI)
+- **Backend & APIs:** NodeJS, Serverless, BaaS, Next.js API routes
+- **Dev Tools:** Git, GitHub, Figma, Photoshop, Illustrator
+- **Other:** Responsive Design, Web Performance Optimization, Accessibility
+
+<!-- ## 💼 Professional Experience
+
+### Frontend Engineer | Entech (Remote, USA)
+_July 2024 - Present_
+- Developed Entech boilers dashboard using NextJS and ChakraUI
+- Implemented reusable components and optimized site performance
+- Ensured adherence to best practices for UX and accessibility
+
+### Full Stack Developer | Safe App (Remote, USA)
+_June 2024 - Present_
+- Developed landing pages and APIs with a focus on frontend work
+- Utilized Next.js, SolidJS, and TailwindCSS for building interactive UIs
+- Integrated third-party APIs and implemented efficient data fetching
+
+### Intern Frontend Developer | JS Careers (Remote)
+_January 2024 - May 2024_
+- Built a digital platform focused on advancing web dev careers
+- Created landing sites and advanced frontend templates using NextJS and various UI libraries
+
+### Freelance Web Developer | Remote
+_August 2023 - December 2023_
+- Delivered tailored web solutions with high client satisfaction
+- Enhanced website usability, accessibility, and performance
+
+### Intern Frontend Developer | WearVista (Narayanganj, Dhaka)
+_August 2023 - November 2023_
+- Built and optimized a custom e-commerce website
+- Improved customer experience across devices and maintained website functionality -->
+
+## 🚀 Projects
+
+### most recent & favorite projects
+- [sorenblank.com](https://sorenblank.com) - NextJS, Shadcn, Framer Motion
+- [safe.app](https://safe.app) - NextJS, TailwindCSS, Framer Motion
+- [abdullakhan.me](https://abdullakhan.me) - NextJS
+
+### other projects
+- [Modern Personal Portfolio Template](https://github.com/yourusername/modern-portfolio) - NextJS
+- [Personal Brand Portfolio Template](https://github.com/yourusername/brand-portfolio) - NextJS
+- [Burgir Restaurant Landing Page](https://github.com/yourusername/burgir) - NextJS
+- [AI Product Landing Page](https://github.com/yourusername/ai-landing) - NextJS
+- [VCard Portfolio Template](https://github.com/yourusername/vcard-portfolio) - NextJS
+- [WearVista E-commerce Site](https://wearvista.shop) - HTML5, CSS3, JavaScript
+
+
+
+## 📫 Get in Touch
+
+- Portfolio: [https://sorenblank.com](https://sorenblank.com)
+- Email: [soren@sorenblank.com](mailto:soren@sorenblank.com)
+- Location: Earth
+
+---
+
+_The hardest choices require the strongest wills. — Thanos_
