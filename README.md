@@ -7,7 +7,7 @@
 
 ## Soren Blank / Siyam Afroz
 
-_Frontend Engineer | Web Developer | UI/UX Enthusiast_
+_Frontend Engineer | Web Developer | UI/UX Pro_
 
 ---
 
