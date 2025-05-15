@@ -11,7 +11,7 @@ I am a Software Engineer specializing in modern web technologies and enterprise 
 
 You can reach me at [sorenblank.com](https://sorenblank.com) or book a meeting at [cal.com/@sorenblank](https://cal.com/sorenblank/).
 
-Wanna write a very serious email? Here is my mail: [soren@sorenblank.com](mailto:soren@sorenblank.com).
+Wanna write a very serious email? Send it here: [soren@sorenblank.com](mailto:soren@sorenblank.com).
 
 <!-- ## 🛠 Technical Skills
 
