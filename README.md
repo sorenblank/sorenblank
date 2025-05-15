@@ -1,8 +1,6 @@
 ## Hey! I'm Soren 👋🏻
 
-`software engineer @spicenet` / `prev @safe , @entech`
-
----
+> `software engineer @spicenet` / `prev @safe , @entech`
 
 I am a Software Engineer specializing in modern web technologies and enterprise level applications. Over the last 3 years I have:
 
